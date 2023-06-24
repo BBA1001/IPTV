@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:-1 group-title="💞小胡同学,#genre#",熊猫频道
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",熊猫频道
 https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",金马影院
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",凤凰中文
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",凤凰中文
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
-#EXTINF:-1 group-title="💞小胡同学,#genre#",凤凰资讯
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",凤凰资讯
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
-#EXTINF:-1 group-title="💞小胡同学,#genre#",澳门莲花
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",澳门莲花
 http://107.151.203.111:2209/135/hk.php?id=amlh
-#EXTINF:-1 group-title="💞小胡同学,#genre#",澳亚卫视
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",財經體育資訊台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",財經體育資訊台
 https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",翡翠台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",翡翠台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",翡翠台
 http://radius.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",翡翠台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",翡翠台
 http://shazui.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",翡翠台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",翡翠台
 http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",翡翠台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",翡翠台
 http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://113.64.147.27:808/hls/67/index.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",三立台湾台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",三立台湾台
 https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-#EXTINF:-1 group-title="💞小胡同学,#genre#",三立都会台
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",三立都会台
 https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-#EXTINF:-1 group-title="💞小胡同学,#genre#",CHC动作电影
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",CHC动作电影
 http://live.cooltv.top/tv/aishang.php?id=chcdzdy
-#EXTINF:-1 group-title="💞小胡同学,#genre#",CHC动作电影
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",CHC动作电影
 http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
-#EXTINF:-1 group-title="💞小胡同学,#genre#",CHC家庭影院
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",CHC家庭影院
 http://live.cooltv.top/tv/aishang.php?id=chcjtyy
-#EXTINF:-1 group-title="💞小胡同学,#genre#",CHC高清电影
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",CHC高清电影
 http://live.cooltv.top/tv/aishang.php?id=chcgqdy
-#EXTINF:-1 group-title="💞小胡同学,#genre#",CHC家庭影院
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",CHC家庭影院
 http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-#EXTINF:-1 group-title="💞小胡同学,#genre#",CHC高清电影
+#EXTINF:-1 group-标题="💞小胡同学,#genre#",CHC高清电影
 http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-1
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-1
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-1
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-2
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-2
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-2
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-2
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-3
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-3
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-4
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-4
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-5
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-5
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-5
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-5
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-5+
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-5+
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-5+
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-5+
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-6
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-6
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-7
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-7
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-#EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-8
+#EXTINF:-1 group-标题="🎈央视直播,#genre#",CCTV-8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 #EXTINF:-1 group-title="🎈央视直播,#genre#",CCTV-8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
